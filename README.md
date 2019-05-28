@@ -1,5 +1,5 @@
 # 3320VCF
-Kicad project files of a CEM3320/AS3320 based VCF. Part of a modular DIY synth project, other modules to follow in other project folders. 
+Kicad project files of a CEM3320/AS3320 based VCF. Part of a modular DIY synth project, other modules to follow in other repositories. 
 
 Used the Audio.lib from https://kicad.github.io/symbols/Audio to extend the Kicad library for the AS3320 component.
 
