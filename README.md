@@ -1,6 +1,8 @@
 # 3320VCF
 Kicad project files of a CEM3320/AS3320 based VCF
 
+Used the Audio.lib from https://kicad.github.io/symbols/Audio to extend the Kicad library for the AS3320 IC.
+
 Designed to work with +/- 15V, but will most likely work fine for +/- 12V as well
 
 No PCB-mounting of potmeters, switches, jacks; all connected by pin header connectors
