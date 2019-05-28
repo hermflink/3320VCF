@@ -1,14 +1,14 @@
 # 3320VCF
-Kicad project files of a CEM3320/AS3320 based VCF
+Kicad project files of a CEM3320/AS3320 based VCF. Part of a modular DIY synth project, other modules to follow in other project folders. 
 
-Used the Audio.lib from https://kicad.github.io/symbols/Audio to extend the Kicad library for the AS3320 IC.
+Used the Audio.lib from https://kicad.github.io/symbols/Audio to extend the Kicad library for the AS3320 component.
 
 Designed to work with +/- 15V, but will most likely work fine for +/- 12V as well
 
-No PCB-mounting of potmeters, switches, jacks; all connected by pin header connectors
+The PCB is 9.5 x 5.5 cm and has no PCB-mounting of potmeters, switches, jacks; these are all connected by pin header connectors
 
-Stages 1 and 2 switchable between HP and LP by SW1 and SW2. 
-Stages 3 and 4 fixed on LP.
+Stages 1 and 2 are switchable between HP and LP mode by SW1 and SW2. 
+Stages 3 and 4 are fixed on LP mode.
 These allow for the following filter modes:
 - A: 24dB LP
 - B: 12dB BP
