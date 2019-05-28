@@ -16,3 +16,5 @@ These allow for the following filter modes:
 Background of the mode configurations: https://electricdruid.net/multimode-filters-part-1-reconfigurable-filters/ section Craig Anderton’s Multiple Identity Filter.
 
 Capacitors on pin 4, 5, 11 and 16 should be 1% or less tolerance! 
+
+F1 and F2 fuses are not really required and can be replaced by shorts.
